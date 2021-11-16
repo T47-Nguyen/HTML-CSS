@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6,{
 
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 150px;
+    font-size: 140px;
     color: white;
     font-style: normal;
 }
@@ -56,4 +56,14 @@ li {
 }
 a {
     color: white;
+}
+
+
+/* Cake page */
+.cake-text {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: left;
+                color: white;
+                font-size: 25px;
+                font-weight: bold;
 }
