@@ -7,7 +7,9 @@
 
 /* below styles all sections */
 
- 
+ section {
+     padding: 80px 0xp 0px 0px;
+ }
 
 /* section { 
     padding: 8px 0px 0px 0px;
@@ -17,7 +19,10 @@
 
 /* below styles only "section 2" */
 
-
+.section-tow {
+    padding: 6px 2px 2px 8px;
+    background-color: deepskyblue;
+}
 
 /* .section-two {
     padding: 6px 2px 2px 8px;
@@ -28,6 +33,9 @@
 
 /* designating a % for width for an image allows a rescale when web brower moves */
 
+.cake-poster-item {
+    border: 1px solid yellow;
+}
  /* .cake-poster-item {
     border: 1px solid yellow; 
     display: flex; 

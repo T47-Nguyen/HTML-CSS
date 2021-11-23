@@ -8,7 +8,7 @@ p{
 }
 
 
-h1, h2, h3, h4, h5, h6,{
+h1, h2, h3, h4, h5, h6 {
 
     font-family:Verdana, Gereva, Tahoma, sans-serif;
     color:lightyellow;
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6,{
 
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 140px;
+    font-size: 150px;
     color: white;
     font-style: normal;
 }
@@ -62,7 +62,7 @@ a {
 /* Cake page */
 .cake-text {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
-            text-align: left;
+            text-align: center;
                 color: white;
                 font-size: 25px;
                 font-weight: bold;              
@@ -70,7 +70,7 @@ a {
 
 .section-one {
     border: 1px solid white;
-        background-color: darkslateblue;
+        background-color: lightskyblue;
 }
 .caption {
         font-size: 15px;
@@ -82,6 +82,7 @@ a {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    
 }
 .cake-items {
     border: 1px dashed yellow;
